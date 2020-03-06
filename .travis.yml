@@ -1,4 +1,4 @@
 language: node_js
 after_success: echo "Finished"
 script:
-  - exit 1
+  - exit 0
